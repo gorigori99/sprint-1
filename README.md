@@ -1,2 +1,2 @@
-# sprint-1
+# Proyects Tripleten
 "Project focused on data cleaning, extraction, and organization."
