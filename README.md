@@ -1,2 +1,1 @@
-# Proyects Tripleten
-"Project focused on data cleaning, extraction, and organization."
+Store 1 tiene como objetivo garantizar la coherencia en la recopilación de datos. Como parte de esta iniciativa, se debe evaluar la calidad de los datos recopilados sobre los usuarios y las usuarias.  los datos recopilados son revisados y se han propuesto cambios. A continuación verás datos sobre un usuario o una usuaria en particular.
