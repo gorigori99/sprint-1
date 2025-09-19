@@ -1,1 +1,59 @@
-Store 1 tiene como objetivo garantizar la coherencia en la recopilación de datos. Como parte de esta iniciativa, se debe evaluar la calidad de los datos recopilados sobre los usuarios y las usuarias.  los datos recopilados son revisados y se han propuesto cambios. A continuación verás datos sobre un usuario o una usuaria en particular.
+Objetivos del Proyecto
+
+Garantizar la integridad y consistencia de los datos de usuarios/as.
+
+Identificar y corregir errores comunes como:
+
+Tipos de datos incorrectos.
+
+Formato inconsistente de nombres y categorías.
+
+Valores faltantes o no convertibles.
+
+Automatizar procesos de validación de datos.
+
+Calcular métricas clave de gasto por usuario/a.
+
+Identificar patrones y segmentar usuarios/as según edad y comportamiento de compra.
+
+🧰 Herramientas y Tecnologías
+
+Lenguaje: Python
+
+Conceptos clave:
+
+Manejo de cadenas (.strip(), .split(), .replace())
+
+Conversión de tipos (int(), try-except)
+
+List comprehension y map()
+
+Control de flujo (if, while, for)
+
+Estructuras de datos: listas anidadas
+
+Funciones agregadas: sum(), max(), min()
+
+🧪 Ejercicios y Soluciones Implementadas
+Ejercicio	Tema	Descripción
+1	Limpieza de user_name	Eliminación de espacios y reemplazo de guiones bajos
+2	Separación de nombre y apellido	Uso de .split()
+3-4	Validación de edad	Conversión segura a int con manejo de errores
+5	Estandarización de texto	Conversión de categorías favoritas a minúsculas
+6	Métricas de gasto	Cálculo de total, máximo y mínimo gasto
+7	Simulación de compras	Uso de while con randint
+8	Formateo de datos	Creación de string con f-string
+9	Ingresos totales	Suma total de gastos por usuario
+10	Filtros por edad	Usuarios/as menores de 30
+11	Filtros combinados	Edad < 30 y gasto > $1000
+12	Filtro por categoría	Usuarios/as que compraron ropa
+📈 Ejemplo de salida (Ejercicio 12)
+kate morgan ,  24
+samantha smith ,  29
+maria garcia ,  33
+lisa wilson ,  35
+james lee ,  28
+
+📝 Conclusión
+
+Este proyecto muestra cómo pequeños errores en la recopilación de datos pueden afectar el análisis, y cómo aplicar buenas prácticas de limpieza puede marcar la diferencia. Las habilidades desarrolladas aquí sientan las bases para tareas más complejas como modelado de datos, segmentación de clientes, y visualización de insights.
